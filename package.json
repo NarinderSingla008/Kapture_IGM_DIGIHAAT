@@ -1,0 +1,21 @@
+{
+  "name": "kapture_igm_digihaat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarinderSingla008/Kapture_IGM_DIGIHAAT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NarinderSingla008/Kapture_IGM_DIGIHAAT/issues"
+  },
+  "homepage": "https://github.com/NarinderSingla008/Kapture_IGM_DIGIHAAT#readme"
+}
